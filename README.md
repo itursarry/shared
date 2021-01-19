@@ -1,1 +1,1 @@
-Repo to shard personal information 
+Repository for sharing personal information
