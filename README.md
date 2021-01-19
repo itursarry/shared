@@ -1,2 +1,1 @@
-# shared
-Shared info
+# repo to shard personal information 
